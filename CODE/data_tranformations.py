@@ -1,5 +1,5 @@
 from torchvision import transforms as T
-import CODE.constants
+import CODE.constants as constants
 
 class data_transformations:
     def __init__(self):

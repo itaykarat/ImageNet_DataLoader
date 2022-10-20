@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import CODE.constants
+import CODE.constants as constants
 
 
 class pre_processing_technical:
