@@ -1,5 +1,5 @@
 import os
-import constants
+import CODE.constants
 from CODE.data_tranformations import data_transformations
 from CODE.main import generate_dataloader
 from CODE.display_data_set import display_data_set
